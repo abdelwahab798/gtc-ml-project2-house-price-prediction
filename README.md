@@ -67,7 +67,10 @@ Several models were trained and compared:
 - MSE: **2.21e9**  
 - R²: **0.831**  
 
-### 🔹 XGBoost (Tuned Parameters)  
+### 🔹 XGBoost (Tuned Parameters)
+- MAE: **29,351**  
+- MSE: **2.02e9**  
+- R²: **0.846**  
 Hyperparameters:  
 ```python
 n_estimators=500,
